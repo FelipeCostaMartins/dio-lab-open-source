@@ -11,10 +11,13 @@ const felipe = {
     Currently: "Transitioning careers to become a blockchain specialist"
 };
 ```
+
 <img src="https://media1.giphy.com/media/OmxPCq8ATFXig/giphy.gif?cid=790b7611q4yzcu35wfpsmh1acy14n38aumzb799as49ovmg4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
-![](https://github-readme-stats.vercel.app/api?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true">
+	<img alt="Top Langs" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 
 ## 🤝Socials:
 
@@ -24,4 +27,14 @@ const felipe = {
   
   - 📫 Contact me by my personal email: **felipecosta2407@gmail.com**
 
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
+<details align="left">
+  <summary>Credits</summary> 
+  - Badges by <a href="https://shields.io/">shields.io</a>
+  <br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
+   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+</details>
